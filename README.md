@@ -2,7 +2,7 @@
 
 #### **Note : If the code doesn't run, note down the paths to the files because I'm changing them.**
 
-#### **Steps:**
+#### **Project construction**
 #### **1. Read the File**
 #### **2. Data Preprocessing**
 #####  **2.1. Check the Na value in each column**
