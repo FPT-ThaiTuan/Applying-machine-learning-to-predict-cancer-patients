@@ -9,17 +9,20 @@
 #####  **2.2. Remove unnecessary features**
 #### **3. Data visualization**
 #####  **3.1. Chart all data**
+
+![Chart all data](https://github.com/user-attachments/assets/181734ab-8cdd-4ffa-9c9b-d4d885b1dbc9)
+
 #####  **3.2. Age Distribution Chart**
 
 ![Chart 1](https://github.com/user-attachments/assets/f02c2912-ded5-4203-a82f-c62238688c41)
 
-#####  **3.3. Sex Distribution Chart
+#####  **3.3. Sex Distribution Chart**
 
-![Chart 2](https://github.com/user-attachments/assets/4b3a3041-4f8a-4618-9f08-ceb9e1cfe995)
+![Chart 2](https://github.com/user-attachments/assets/d4a2bad0-f6bd-44fe-a114-10b7a81b2b00)
 
-#####  **3.4. Boxplot chart of the relationship between Air Pollution and Level
+#####  **3.4. Boxplot chart of the relationship between Air Pollution and Level**
 
-![Chart 3](https://github.com/user-attachments/assets/f35d07dc-0ff0-4245-9195-368d5e56f7ae)
+![Chart 3](https://github.com/user-attachments/assets/567d021e-d6c4-48be-a74a-05709db0ad3a)
 
 #### **4. Train-Test Split**
 #### **5. Model training**
