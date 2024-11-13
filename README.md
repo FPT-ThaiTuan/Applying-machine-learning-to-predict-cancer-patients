@@ -5,13 +5,13 @@
 #### **Steps:**
 #### **1. Read the File**
 #### **2. Data Preprocessing**
-#####  **2.1. Check the Na value in each column
-#####  **2.2. Remove unnecessary features
+#####  **2.1. Check the Na value in each column**
+#####  **2.2. Remove unnecessary features**
 #### **3. Data visualization**
-#####  **3.1. Chart all data
-#####  **3.2. Age Distribution Chart
+#####  **3.1. Chart all data**
+#####  **3.2. Age Distribution Chart**
 
-![Chart 1](https://github.com/user-attachments/assets/87f4ea46-8125-4c6b-a5f7-0def53e3ef0a)
+![Chart 1](https://github.com/user-attachments/assets/f02c2912-ded5-4203-a82f-c62238688c41)
 
 #####  **3.3. Sex Distribution Chart
 
@@ -23,14 +23,14 @@
 
 #### **4. Train-Test Split**
 #### **5. Model training**
-#####  **5.1. LogisticRegression Model
-#####  **5.2. Random Forest Model
-#####  **5.3. Support vector machine Model
-#####  **5.4. XGBoost Model
-#####  **5.5. Decision Tree Model
-#####  **5.6. Gradient Boosting Model
-#####  **5.7. K-Nearest Model
-#####  **5.8. Naive Bayes Model
+#####  **5.1. LogisticRegression Model**
+#####  **5.2. Random Forest Model**
+#####  **5.3. Support vector machine Model**
+#####  **5.4. XGBoost Model**
+#####  **5.5. Decision Tree Model**
+#####  **5.6. Gradient Boosting Model**
+#####  **5.7. K-Nearest Model**
+#####  **5.8. Naive Bayes Model**
 
 #### **6. Conclude**
 
